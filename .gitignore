@@ -57,3 +57,6 @@ build/
 hs_err_pid*
 
 src/main/java/com/baizhi/utils
+
+#此文件不会被git管理
+src/main/resources/applicationsss.properties
